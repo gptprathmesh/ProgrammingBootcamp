@@ -1,0 +1,9 @@
+ToDoList {
+    margin: 0;
+    padding: 0;
+}
+
+#todo-check {
+    margin: 0;
+    padding: 0;
+}
